@@ -1,0 +1,9 @@
+bin/
+out/
+*.class
+save.dat
+TideVault/
+input/
+*.jar
+*.ico
+*.zip

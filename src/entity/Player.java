@@ -164,7 +164,7 @@ public final class Player extends Entity {
                         //gp.ui.showMessage("You found the treasure");
                         gp.ui.gameFinished = true;
                     } else {
-                        gp.ui.showMessage("The vault is locked. Find the fault key.");
+                        gp.ui.showMessage("The vault is locked. Find the vault key.");
                     }
                     break;
             }

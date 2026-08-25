@@ -43,7 +43,7 @@ public class NPC_Oldman extends Entity {
 
     public void setDialogue() {
         dialogues[0] = "Hello, traveler. You've come a long way.";
-        dialogues[1] = "The vault to the east holds great treasure...";
+        dialogues[1] = "The vault to the south holds great treasure...";
         dialogues[2] = "But you'll need the right key to open it.";
         dialogues[3] = "Search well, and fortune may find you.";
     }
